@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'1', 'ver3':'عدن واتساب','dli':'https://www.google.com'}
+{'ver1':'9', 'ver2':'2', 'ver3':'عدن واتساب','dli':'https://www.google.com'}
